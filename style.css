@@ -1,0 +1,48 @@
+#header{
+    background-color: cornflowerblue;
+    color: blueviolet;
+}
+#content{
+    background-color: blanchedalmond;
+    color: darkblue;
+}
+h1{
+    color: blue;
+}
+p{
+    color: brown;
+}
+.logo-text{
+    background-color: deeppink;
+}
+
+li.item{
+    color: darkgreen;
+    box-sizing: border-box;
+    background-color: bisque;
+    text-align: center;
+    padding: 10px;
+}
+li.active{
+    color: blue;
+}
+input[type="text"] {
+    color:black;
+}
+a[href] {
+    background-color:hotpink;
+}
+a[href^= "https://"] {
+    background-color: dodgerblue;
+} 
+
+body * {
+    background-color: aqua;
+}
+article>p {
+    color: red;
+}
+article{
+    text-align: center;
+}
+
